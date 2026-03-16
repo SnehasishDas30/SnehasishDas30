@@ -53,6 +53,11 @@ XAMPP
 
 
 ---
+## 🛠️ Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode" />
+</p>
 
 ## 📫 Contact
 
