@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehasish Das</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Programmer;Final+Year+CSE+Student&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Programmer;Final+Year+CSE+Student&center=true&width=500&height=45">
 </p>
 
 <p align="center">
