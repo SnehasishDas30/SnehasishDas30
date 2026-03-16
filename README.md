@@ -71,4 +71,4 @@ https://evntro.rf.gd/
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SnehasishDas30)
 
-Email: sid29082001@gmail.com
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sid29082001@gmail.com)
