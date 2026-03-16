@@ -67,25 +67,19 @@ https://evntro.rf.gd/
 
 ## 🌐 Contact Me
 
-<p>
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
+<td><a href="https://www.linkedin.com/in/snehasish-das-720402380">https://www.linkedin.com/in/snehasish-das-720402380</a></td>
+</tr>
 
-<a href="https://www.linkedin.com/in/snehasish-das-720402380">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
- https://www.linkedin.com/in/snehasish-das-720402380
+<tr>
+<td><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></td>
+<td><a href="https://github.com/SnehasishDas30">https://github.com/SnehasishDas30</a></td>
+</tr>
 
-<br><br>
-
-<a href="https://github.com/SnehasishDas30">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
- https://github.com/SnehasishDas30
-
-<br><br>
-
-<a href="mailto:sid29082001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- sid29082001@gmail.com
-
-</p>
+<tr>
+<td><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></td>
+<td><a href="mailto:sid29082001@gmail.com">sid29082001@gmail.com</a></td>
+</tr>
+</table>
