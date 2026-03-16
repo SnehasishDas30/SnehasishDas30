@@ -1,66 +1,74 @@
+<h1 align="center">Hi 👋, I'm Snehasish Das</h1>
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Snehasish%20Das&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Programmer;Final+Year+CSE+Student&center=true&width=500&height=45">
 </p>
 
-<h1 align="center">Hi 👋, I'm Snehasish Das</h1>
-<h3 align="center">Final Year Computer Science & Engineering Student | Web Developer</h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20views&color=blue&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final Year **B.Tech Computer Science & Engineering** student  
+- 🎓 Final Year B.Tech Computer Science & Engineering Student  
+- 💻 Skilled in Python and Web Development
+- 🌱 Learning MERN Stack Development  
+- 🎯 Looking for Internship / Entry Level Opportunities  
 
-💻 Interested in **Web Development and MERN Stack**  
+---
 
-⚡ Skilled in **Python, C, HTML, CSS, JavaScript, PHP and MySQL**  
+## 🚀 Projects
 
-🌱 Currently learning **React.js, Node.js and MongoDB**  
+### Doctor Office
+Hospital management web platform  
+http://doctorsoffice.gt.tc  
 
-🎯 Looking for **Internship / Entry Level Opportunities**  
+### Event Management System
+Event management system built with PHP, HTML, CSS, JS and MySQL  
+https://evntro.rf.gd/  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,express,git,github,vscode,excel,kali linux,xampp" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode,kali,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🏥 Doctor Office
-Full-stack hospital management platform with doctor registration, patient management and appointment booking.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
+</p>
 
-🔗 http://doctorsoffice.gt.tc  
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehasishDas30&theme=tokyonight" />
+</p>
 
 ---
 
-### 🎉 Event Management System
-Event management platform built using **PHP, HTML, CSS, JavaScript and MySQL**.
+## 💻 Most Used Languages
 
-🔗 https://evntro.rf.gd/  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehasishDas30&theme=tokyo-night" />
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/snehasish-das-720402380)
 
-<a href="https://www.linkedin.com/in/snehasish-das-720402380">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SnehasishDas30)
 
-<a href="https://github.com/SnehasishDas30">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-📧 Email: **sid29082001@gmail.com**
-
----
-
-⭐ *Always eager to learn new technologies and build real-world projects.*
+Email: sid29082001@gmail.com
