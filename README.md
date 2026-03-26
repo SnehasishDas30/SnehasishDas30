@@ -48,7 +48,7 @@ https://evntro.rf.gd/
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ https://evntro.rf.gd/
 ## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight&cache_seconds=60" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
 </p>
 ---
 
