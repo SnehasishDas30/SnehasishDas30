@@ -60,9 +60,8 @@ https://evntro.rf.gd/
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight&cache_seconds=60" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
