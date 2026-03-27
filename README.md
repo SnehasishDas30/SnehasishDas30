@@ -40,7 +40,7 @@ https://evntro.rf.gd/
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode,kali,linux" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode,kali,linux,bootstrap" />
 </p>
 
 ---
