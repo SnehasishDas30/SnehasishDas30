@@ -105,19 +105,20 @@ https://evntro.rf.gd/
 ## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SnehasishDas30&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehasishDas30&theme=tokyonight" />
 </p>
+
 
 ---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
 </p>
 ---
 
@@ -139,18 +140,19 @@ https://evntro.rf.gd/
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
+<td><a href="https://www.linkedin.com/in/snehasish-das-720402380">https://www.linkedin.com/in/snehasish-das-720402380</a></td>
+</tr>
 
-<a href="https://www.linkedin.com/in/snehasish-das-720402380">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<tr>
+<td><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></td>
+<td><a href="https://github.com/SnehasishDas30">https://github.com/SnehasishDas30</a></td>
+</tr>
 
-<a href="https://github.com/SnehasishDas30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:sid29082001@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+<tr>
+<td><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></td>
+<td><a href="mailto:sid29082001@gmail.com">sid29082001@gmail.com</a></td>
+</tr>
+</table>
