@@ -31,20 +31,35 @@ https://evntro.rf.gd/
 
 ## ⚡ Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
 
-<!-- Animated (SAFE ones only) -->
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React
+</td>
 
-<!-- Stable (NO BREAK) -->
-<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-<img src="https://skillicons.dev/icons?i=git" width="60"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
-<img src="https://skillicons.dev/icons?i=html" width="60"/>
-<img src="https://skillicons.dev/icons?i=css" width="60"/>
+<td align="center">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JS
+</td>
+
+<td align="center">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+
+</tr>
+</table>
 
 </p>
 ---
