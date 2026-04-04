@@ -30,6 +30,7 @@ https://evntro.rf.gd/
 ---
 
 ## ⚡ Tech Stack
+<div align="center" style="filter: drop-shadow(0 0 10px cyan);">
 <table align="center">
 
 <tr>
@@ -55,6 +56,7 @@ https://evntro.rf.gd/
 </tr>
 
 </table>
+</div>
 
 ---
 
