@@ -33,32 +33,20 @@ https://evntro.rf.gd/
 
 <p align="center">
 
-<!-- React -->
+<!-- Animated (SAFE ones only) -->
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
-<img src="https://skillicons.dev/icons?i=react" width="60"/>
-
-<!-- JavaScript -->
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
-<img src="https://skillicons.dev/icons?i=js" width="60"/>
-
-<!-- Node -->
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
-
-<!-- MongoDB -->
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="60"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-
-<!-- Python -->
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/>
-<img src="https://skillicons.dev/icons?i=python" width="60"/>
 
-<!-- Git -->
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="60"/>
+<!-- Stable (NO BREAK) -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="60"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
 <img src="https://skillicons.dev/icons?i=git" width="60"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://skillicons.dev/icons?i=html" width="60"/>
+<img src="https://skillicons.dev/icons?i=css" width="60"/>
 
 </p>
-
 ---
 
 ## 📊 GitHub Dashboard
