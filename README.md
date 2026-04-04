@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+to+Internships;Building+Cool+Projects&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+to+Internships;Building+Cool+Projects;Hacker;Create-virus&center=true&width=500&height=45">
 </p>
 
 ---
@@ -105,7 +105,7 @@ https://evntro.rf.gd/
 ## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -119,10 +119,9 @@ https://evntro.rf.gd/
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake-dark.svg" />
