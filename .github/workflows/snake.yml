@@ -2,30 +2,27 @@ name: Generate Snake
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: SnehasishDas30
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg
+          outputs: dist/snake.svg
 
-      - name: Commit & Push Snake
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add *.svg
-          git commit -m "update snake" || echo "no changes"
-          git push
+      - name: Commit Snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update snake animation"
