@@ -1,6 +1,6 @@
 <!-- 🔥 HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=280&section=header&text=Snehasish%20Das&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=280&section=header&text=Snehasish%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 🧠 TYPING -->
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Learner;Final+Year+CSE+Student;Open+to+Internships🚀" />
 </p>
 
-<!-- 👀 VIEWS -->
+<!-- 👀 PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20Views&color=blue&style=flat" />
 </p>
@@ -34,86 +34,22 @@ https://evntro.rf.gd/
 
 ---
 
-# ⚡ Tech Stack (ANIMATED)
+# ⚡ Tech Stack
 
-<table align="center">
-
-<tr>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/>
-<br>Python
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/>
-<br>JavaScript
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/>
-<br>React
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="60"/>
-<br>Node
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/>
-<br>MySQL
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="60"/>
-<br>MongoDB
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://techstack-generator.vercel.app/html-icon.svg" width="60"/>
-<br>HTML
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/css-icon.svg" width="60"/>
-<br>CSS
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="60"/>
-<br>Git
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/>
-<br>GitHub
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/linux-icon.svg" width="60"/>
-<br>Linux
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="60"/>
-<br>Bootstrap
-</td>
-</tr>
-
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,html,css,bootstrap,git,github,linux,vscode&perline=7" />
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehasishDas30&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehasishDas30&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
