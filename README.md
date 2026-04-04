@@ -1,90 +1,117 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Snehasish%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-
-
-</div>
-
+<!-- 🔥 NEON HEADER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Programmer;Final+Year+CSE+Student;Hacker&center=true&width=500&height=45">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=300&section=header&text=Snehasish%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- 🧠 TYPING EFFECT -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+to+Internships🚀" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final Year B.Tech Computer Science & Engineering Student  
-- 💻 Skilled in Python and Web Development
-- 🌱 Learning MERN Stack Development  
-- 🎯 Looking for Internship / Entry Level Opportunities  
-
----
-
-## 🚀 Projects
-
-### Doctor Office
-Hospital management web platform  
-http://doctorsoffice.gt.tc  
-
-### Event Management System
-Event management system built with PHP, HTML, CSS, JS and MySQL  
-https://evntro.rf.gd/  
-
----
-
-## 🛠️ Tech Stack
-
+<!-- 👀 PROFILE VIEWS -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode,kali,linux,bootstrap" />
+  <img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 👨‍💻 About Me
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
-</p>
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehasishDas30&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
-</p>
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehasishDas30&theme=tokyo-night" />
+- 🎓 Final Year B.Tech CSE Student  
+- 💻 Full Stack Developer (MERN)  
+- 🌱 Currently Learning Advanced Backend  
+- ⚡ Love building real-world projects  
+- 🎯 Looking for Internship / Job  
 
 ---
 
-## 🌐 Contact Me
+# 🚀 Featured Projects
 
-<table>
+### 🏥 Doctor Office  
+🔗 http://doctorsoffice.gt.tc  
+
+### 🎉 Event Management System  
+🔗 https://evntro.rf.gd/  
+
+---
+
+# ⚡ Tech Stack (Dreamy Grid)
+
+<table align="center">
 <tr>
-<td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
-<td><a href="https://www.linkedin.com/in/snehasish-das-720402380">https://www.linkedin.com/in/snehasish-das-720402380</a></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
 </tr>
 
 <tr>
-<td><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></td>
-<td><a href="https://github.com/SnehasishDas30">https://github.com/SnehasishDas30</a></td>
-</tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></td>
-<td><a href="mailto:sid29082001@gmail.com">sid29082001@gmail.com</a></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55"/><br>Linux</td>
 </tr>
 </table>
+
+---
+
+# 🧠 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SnehasishDas30&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake (Auto Update)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehasishDas30&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/snehasish-das-720402380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/SnehasishDas30"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="mailto:sid29082001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+# 🔥 Visitor Badge (Glow)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=SnehasishDas30&icon=5&color=6" />
+</p>
