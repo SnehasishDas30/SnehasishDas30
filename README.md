@@ -33,71 +33,25 @@ https://evntro.rf.gd/
 <table align="center">
 
 <tr>
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="55"/><br>Python
-</td>
-
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/><br>C
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="55"/><br>HTML
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55"/><br>CSS
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="55"/><br>JavaScript
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=php" width="45"/><br>PHP
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55"/><br>MySQL
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB
-</td>
+<td align="center"><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="55"/><br>Python</td>
+<td align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"/><br>C</td>
+<td align="center"><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="55"/><br>HTML</td>
+<td align="center"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55"/><br>CSS</td>
+<td align="center"><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="55"/><br>JS</td>
+<td align="center"><img src="https://media.giphy.com/media/kEoOCToX1VeJWDCPSk/giphy.gif" width="55"/><br>PHP</td>
+<td align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55"/><br>MySQL</td>
+<td align="center"><img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="55"/><br>MongoDB</td>
 </tr>
 
 <tr>
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55"/><br>React
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"/><br>Node.js
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/kEoOCToX1VeJWDCPSk/giphy.gif" width="55"/><br>Git
-</td>
-
-<td align="center" width="90">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="55"/><br>GitHub
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=kali" width="45"/><br>Kali
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45"/><br>Bootstrap
-</td>
+<td align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55"/><br>React</td>
+<td align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"/><br>Node.js</td>
+<td align="center"><img src="https://media.giphy.com/media/kEoOCToX1VeJWDCPSk/giphy.gif" width="55"/><br>Git</td>
+<td align="center"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="55"/><br>GitHub</td>
+<td align="center"><img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="55"/><br>VS Code</td>
+<td align="center"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="55"/><br>Kali</td>
+<td align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55"/><br>Linux</td>
+<td align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="55"/><br>Bootstrap</td>
 </tr>
 
 </table>
