@@ -98,6 +98,7 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 
+<div align="center">
 <table>
 <tr>
 <td><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></td>
@@ -114,3 +115,4 @@
 <td><a href="mailto:sid29082001@gmail.com">sid29082001@gmail.com</a></td>
 </tr>
 </table>
+</div>
