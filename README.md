@@ -26,7 +26,7 @@ http://doctorsoffice.gt.tc
 🔹 Event Management System  
 https://evntro.rf.gd/  
 
----
+
 
 <h2 align="center">⚡ Tech Stack</h2>
 <table align="center">
@@ -99,7 +99,7 @@ https://evntro.rf.gd/
 </td>
 </tr>
 
-</table>---
+</table>
 
 <h2 align="center">📊 GitHub Dashboard</h2>
 
@@ -112,14 +112,14 @@ https://evntro.rf.gd/
 </p>
 
 
----
+
 
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
 </p>
----
+
 
 
 
@@ -141,7 +141,7 @@ https://evntro.rf.gd/
 
 </p>
 
----
+
 
 <h2 align="center">📈 Contribution Graph</h2>
 
@@ -149,7 +149,7 @@ https://evntro.rf.gd/
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehasishDas30&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 
 <h2 align="center">🌐 Connect With Me</h2>
 
