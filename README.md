@@ -8,18 +8,17 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+to+Internships;Building+Cool+Projects;Hacker;Create-virus&center=true&width=500&height=45">
 </p>
 
----
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 - 🎓 Final Year B.Tech CSE Student  
 - 💻 Full Stack Developer  
 - 🌱 Learning MERN Stack  
 - 🚀 Open to Internship Opportunities  
 
----
 
-## 🚀 Projects
+
+<h2 align="center">🚀 Projects </h2>
 
 🔹 Doctor Office  
 http://doctorsoffice.gt.tc  
@@ -29,7 +28,7 @@ https://evntro.rf.gd/
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 <table align="center">
 
 <tr>
@@ -102,7 +101,7 @@ https://evntro.rf.gd/
 
 </table>---
 
-## 📊 GitHub Dashboard
+<h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
@@ -115,7 +114,7 @@ https://evntro.rf.gd/
 
 ---
 
-## 💻 Most Used Languages
+<h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
@@ -144,7 +143,7 @@ https://evntro.rf.gd/
 
 ---
 
-## 📈 Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehasishDas30&theme=tokyo-night&hide_border=true" />
@@ -152,7 +151,7 @@ https://evntro.rf.gd/
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <table>
 <tr>
