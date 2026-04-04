@@ -42,11 +42,11 @@ https://evntro.rf.gd/
 </td>
 
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"/><br>HTML
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="55"/><br>HTML
 </td>
 
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/><br>CSS
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="55"/><br>CSS
 </td>
 
 <td align="center" width="90">
@@ -58,7 +58,7 @@ https://evntro.rf.gd/
 </td>
 
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/><br>MySQL
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="55"/><br>MySQL
 </td>
 
 <td align="center" width="90">
@@ -72,15 +72,15 @@ https://evntro.rf.gd/
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="55"/><br>Node.js
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+<img src="https://media.giphy.com/media/kEoOCToX1VeJWDCPSk/giphy.gif" width="55"/><br>Git
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="55"/><br>GitHub
 </td>
 
 <td align="center" width="90">
@@ -101,7 +101,6 @@ https://evntro.rf.gd/
 </tr>
 
 </table>
-
 ---
 
 ## 📊 GitHub Dashboard
