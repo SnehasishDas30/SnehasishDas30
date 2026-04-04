@@ -33,76 +33,16 @@ https://evntro.rf.gd/
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,html,css,js,php,mysql,mongodb,react,nodejs,git,github,vscode,kali,linux,bootstrap&perline=8" />
 </p>
+
 <table align="center">
-
 <tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python" width="50"/><br>Python
-</td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C
-</td>
+<td><img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50"/></td>
+<td><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50"/></td>
+<td><img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"/></td>
+<td><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/></td>
 
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
-</td>
 </tr>
-
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=kali" width="50"/><br>Kali
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
-</td>
-
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap
-</td>
-</tr>
-
 </table>
 ---
 
