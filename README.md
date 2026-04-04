@@ -122,10 +122,16 @@ https://evntro.rf.gd/
 </p>
 ---
 
-## 🐍 Contribution 
+##  Contribution 
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake-dark.svg" />
+  <!-- DARK MODE -->
+  <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+  <!-- LIGHT MODE -->
+  <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 ---
