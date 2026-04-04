@@ -30,38 +30,32 @@ https://evntro.rf.gd/
 ---
 
 ## ⚡ Tech Stack
-
 <table align="center">
+
 <tr>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JS
-</td>
-
-<td align="center">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
-</td>
-
+<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
 </tr>
+
+<tr>
+<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kali" width="50"/><br>Kali</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
+</tr>
+
 </table>
 
-</p>
 ---
 
 ## 📊 GitHub Dashboard
