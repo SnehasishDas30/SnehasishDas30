@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Dream%20Builder&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20👋,%20I'm%20Snehasish%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+
 
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%20Snehasish%20Das;Full%20Stack%20Developer;Final%20Year%20CSE%20Student&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Programmer;Final+Year+CSE+Student;Hacker&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -60,14 +62,11 @@ https://evntro.rf.gd/
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github.com/SnehasishDas30/SnehasishDas30/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehasishDas30&theme=tokyo-night" />
 
 ---
 
