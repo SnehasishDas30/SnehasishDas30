@@ -126,18 +126,21 @@ https://evntro.rf.gd/
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/SnehasishDas30">
-<img src="https://img.shields.io/badge/🔥%20View%20Snake%20Dashboard-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/View%20Snake%20Dashboard-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
+<!-- Dark Mode -->
 <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+
+<!-- Light Mode -->
 <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake.svg#gh-light-mode-only" />
 
-</div>
+</p>
 
 ---
 
