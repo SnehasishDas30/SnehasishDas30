@@ -30,62 +30,77 @@ https://evntro.rf.gd/
 ---
 
 ## ⚡ Tech Stack
-<p align="center">
-    <img width="98%"
-        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Dream%20Builder&section=header&animation=twinkling" />
-</p>
-
-<br />
-
 <table align="center">
 
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="45"/><br>Three.js</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="60"/><br>Redux</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="60"/><br>Django</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="60"/><br>Kubernetes</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="45"/><br>MUI</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="60"/><br>GraphQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vue" width="45"/><br>Vue</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" width="45"/><br>Nuxt</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>C
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP
+</td>
+
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br>MySQL
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br>AWS</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br>TypeScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=go" width="45"/><br>Go</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60"/><br>Sass</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=php" width="45"/><br>PHP</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="45"/><br>SQLite</td>
+<td align="center" width="90">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=kali" width="50"/><br>Kali
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap
+</td>
 </tr>
 
-<tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
-<td align="center"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48"/><br>Solana</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br>REST API</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
-<td align="center"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48"/><br>Ethereum</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=solidity" width="45"/><br>Solidity</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=rust" width="45"/><br>Rust</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br>Angular</td>
-</tr>
-
-</table>
-
-<br />
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/github-contribution-grid-snake-dark.svg"/>
-</p>
----
+</table>---
 
 ## 📊 GitHub Dashboard
 
