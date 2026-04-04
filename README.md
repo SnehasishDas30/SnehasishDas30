@@ -30,33 +30,37 @@ https://evntro.rf.gd/
 ---
 
 ## ⚡ Tech Stack
-<div align="center" style="filter: drop-shadow(0 0 10px cyan);">
+<style>
+img:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
+}
+</style>
 <table align="center">
 
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br>C</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=php" width="50"/><br>PHP</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/><br>C</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/><br>PHP</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="50"/><br>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kali" width="50"/><br>Kali</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br>Linux</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>React</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/><br>Node.js</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/><br>GitHub</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br>VS Code</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60"/><br>Bootstrap</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="60"/><br>Kali</td>
 </tr>
 
 </table>
-</div>
 
 ---
 
