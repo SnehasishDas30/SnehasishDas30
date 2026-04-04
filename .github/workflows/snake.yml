@@ -11,9 +11,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -22,15 +19,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Force Deploy to Output Branch
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git clone --depth=1 https://github.com/${{ github.repository }} temp
-          cd temp
-          git checkout --orphan output || true
-          rm -rf .
-          cp -r ../dist/* .
-          git add .
-          git commit -m "generate snake"
-          git push origin output --force
+      - name: Push to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
