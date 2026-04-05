@@ -8,6 +8,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+to+Internships;Building+Cool+Projects;Hacker;Create-virus&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20views&color=blue&style=flat" />
+</p>
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
