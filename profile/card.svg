@@ -89,23 +89,23 @@
   />
 
 <image
-    href="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile-photo.png"
-    x="47"
-    y="192"
-    width="156"
-    height="156"
-    preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#avatarClip)"
+  href="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile-photo.png"
+  x="47"
+  y="192"
+  width="156"
+  height="156"
+  preserveAspectRatio="xMidYMid slice"
+  clip-path="url(#avatarClip)"
 />
 
-  <circle
-    cx="125"
-    cy="270"
-    r="82"
-    fill="none"
-    stroke="#00f7ff"
-    stroke-width="5"
-  />
+<circle
+  cx="125"
+  cy="270"
+  r="82"
+  fill="none"
+  stroke="#00f7ff"
+  stroke-width="5"
+/>
 
   <!-- ================= NAME ================= -->
 
