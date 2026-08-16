@@ -279,94 +279,88 @@
     stroke-width="1"/>
 
 
-  <!-- ================================================= -->
-  <!-- FOLLOWERS -->
-  <!-- ================================================= -->
+<!-- FOLLOWERS -->
 
-  <text
-    x="200"
-    y="415"
-    text-anchor="middle"
-    fill="#8b949e"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="14"
-    font-weight="600">
+<text
+  x="200"
+  y="415"
+  text-anchor="middle"
+  fill="#8b949e"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14"
+  font-weight="600">
 
-    FOLLOWERS
+  FOLLOWERS
 
-  </text>
+</text>
 
-  <text
-    x="200"
-    y="451"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="25"
-    font-weight="700">
+<text
+  x="200"
+  y="451"
+  text-anchor="middle"
+  fill="#ffffff"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="25"
+  font-weight="700">
 
-    5
+  5
 
-  </text>
+</text>
 
 
-  <!-- ================================================= -->
-  <!-- REPOSITORIES -->
-  <!-- ================================================= -->
+<!-- REPOSITORIES -->
 
-  <text
-    x="500"
-    y="415"
-    text-anchor="middle"
-    fill="#8b949e"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="14"
-    font-weight="600">
+<text
+  x="500"
+  y="415"
+  text-anchor="middle"
+  fill="#8b949e"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14"
+  font-weight="600">
 
-    REPOSITORIES
+  REPOSITORIES
 
-  </text>
+</text>
 
-  <text
-    x="500"
-    y="451"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="25"
-    font-weight="700">
+<text
+  x="500"
+  y="451"
+  text-anchor="middle"
+  fill="#ffffff"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="25"
+  font-weight="700">
 
-    24
+  24
 
-  </text>
+</text>
 
 
-  <!-- ================================================= -->
-  <!-- CONTRIBUTIONS -->
-  <!-- ================================================= -->
+<!-- CONTRIBUTIONS -->
 
-  <text
-    x="800"
-    y="415"
-    text-anchor="middle"
-    fill="#8b949e"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="14"
-    font-weight="600">
+<text
+  x="800"
+  y="415"
+  text-anchor="middle"
+  fill="#8b949e"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14"
+  font-weight="600">
 
-    CONTRIBUTIONS
+  CONTRIBUTIONS
 
-  </text>
+</text>
 
-  <text
-    x="800"
-    y="451"
-    text-anchor="middle"
-    fill="#00f7ff"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="25"
-    font-weight="700">
+<text
+  x="800"
+  y="451"
+  text-anchor="middle"
+  fill="#00f7ff"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="25"
+  font-weight="700">
 
-    ACTIVE
+  ACTIVE
 
-  </text>
+</text>
