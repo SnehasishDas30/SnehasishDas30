@@ -61,8 +61,8 @@
 
   <!-- Animated GIF background -->
 <image
-  href="../profile-banner.gif"
-  xlink:href="../profile-banner.gif"
+  href="profile-banner.gif"
+  xlink:href="profile-banner.gif"
   x="0"
   y="0"
   width="1000"
