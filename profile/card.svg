@@ -89,7 +89,8 @@
   />
 
 <image
-  href="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile-photo.png"
+  href="../profile-photo.png"
+  xlink:href="../profile-photo.png"
   x="47"
   y="192"
   width="156"
