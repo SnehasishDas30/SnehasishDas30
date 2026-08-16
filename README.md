@@ -76,7 +76,7 @@
 <h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SnehasishDas30&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
