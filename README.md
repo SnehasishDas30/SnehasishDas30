@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile/card.svg" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile/card.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=PROFILE%20VIEWS&color=203a43&style=for-the-badge&logo=github" />
+</p>
+
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
