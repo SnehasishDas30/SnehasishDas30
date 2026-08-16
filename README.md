@@ -1,82 +1,45 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ================= PROFILE HEADER ================= -->
 
 <div align="center">
 
-<!-- Animated GIF Banner -->
+<!-- Animated Banner -->
 <img
   src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile-banner.gif"
   width="100%"
-  alt="Snehasish Das Animated Banner"
+  alt="Snehasish Das Banner"
 />
 
 <br>
 
-<!-- Profile Picture -->
+<!-- Profile Identity -->
+<table align="center">
+<tr>
+
+<td align="center" width="150">
+
 <img
   src="https://github.com/SnehasishDas30.png"
   width="120"
   height="120"
-  style="border-radius:50%;"
   alt="Snehasish Das"
 />
 
-<br>
+</td>
 
-<!-- Name -->
+<td align="left">
+
 <h1>👨‍💻 Snehasish Das</h1>
 
-<p>
 <b>@SnehasishDas30</b>
-</p>
-
-<!-- Typing Animation -->
-<img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+Enthusiast;Building+Cool+Projects;Open+to+Internships"
-  alt="Typing Animation"
-/>
 
 <br><br>
 
-<!-- Profile Views -->
-<img
-  src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=PROFILE+VIEWS&color=203a43&style=for-the-badge"
-  alt="Profile Views"
-/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-203a43?style=for-the-badge&logo=github&logoColor=white" />
 
-<br><br>
+<img src="https://img.shields.io/badge/MERN%20Stack%20Learner-203a43?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<!-- ===================== PROFILE STATS ===================== -->
+<img src="https://img.shields.io/badge/AI%20Enthusiast-203a43?style=for-the-badge&logo=openai&logoColor=white" />
 
-<table align="center">
-<tr>
-
-<td align="center">
-<img
-  src="https://img.shields.io/github/followers/SnehasishDas30?label=FOLLOWERS&style=for-the-badge&logo=github&color=203a43"
-  alt="Followers"
-/>
-</td>
-
-<td align="center">
-<img
-  src="https://img.shields.io/github/repos/SnehasishDas30?label=REPOSITORIES&style=for-the-badge&logo=github&color=203a43"
-  alt="Repositories"
-/>
-</td>
-
-<td align="center">
-<img
-  src="https://img.shields.io/github/stars/SnehasishDas30?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&color=203a43"
-  alt="Stars"
-/>
-</td>
-
-<td align="center">
-<img
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=SnehasishDas30&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&hide=stars,issues,prs&theme=tokyonight"
-  width="120"
-  alt="GitHub Contributions"
-/>
 </td>
 
 </tr>
@@ -84,23 +47,99 @@
 
 <br>
 
-<!-- ===================== SOCIAL BADGES ===================== -->
+<!-- Profile Views -->
 
-<a href="https://github.com/SnehasishDas30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/snehasish-das-720402380">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img
+  src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=PROFILE%20VIEWS&style=for-the-badge&color=203a43"
+  alt="Profile Views"
+/>
 
 <br><br>
 
+<!-- ================= STATS ================= -->
+
+<table align="center">
+<tr>
+
+<td align="center">
+
+<img
+  src="https://img.shields.io/github/followers/SnehasishDas30?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=203a43"
+  alt="Followers"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://img.shields.io/badge/REPOSITORIES-24-203a43?style=for-the-badge&logo=github&logoColor=white"
+  alt="Repositories"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://img.shields.io/github/stars/SnehasishDas30?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&logoColor=white&color=203a43"
+  alt="Stars"
+/>
+
+</td>
+
+<td align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=CONTRIBUTIONS&style=for-the-badge&color=203a43"
+  alt="Contributions"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= TYPING ================= -->
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=45&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+Enthusiast;Building+Cool+Projects;Open+to+Internships"
+  alt="Typing Animation"
+/>
+
+<br><br>
+
+<!-- Social Buttons -->
+
+<a href="https://github.com/SnehasishDas30">
+<img
+  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+/>
+</a>
+
+<a href="https://www.linkedin.com/in/snehasish-das-720402380">
+<img
+  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+/>
+</a>
+
 </div>
 
-<!-- ===================== END PROFILE HEADER ===================== -->
+<!-- ================= END PROFILE HEADER ================= -->
 
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+🎓 Final Year B.Tech CSE Student <br>
+💻 Full Stack Developer <br>
+🌱 Learning MERN Stack <br>
+🚀 Open to Internship Opportunities  
+
+</div>
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
