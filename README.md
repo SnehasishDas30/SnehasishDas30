@@ -1,15 +1,5 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Snehasish%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+to+Internships;Building+Cool+Projects;Hacker;Create-virus&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile/card.svg" />
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
