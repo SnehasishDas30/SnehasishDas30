@@ -1,16 +1,50 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Snehasish%20Das&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Snehasish%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+/>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Developer;MERN+Stack+Learner;AI+Enthusiast;Building+Cool+Projects;Open+to+Internships"
+  alt="Typing SVG"
+/>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+/>
+
+<br><br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/github/followers/SnehasishDas30?label=Followers&style=for-the-badge&logo=github&color=203a43" />
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Repositories-24-203a43?style=for-the-badge&logo=github" />
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/github/stars/SnehasishDas30?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=203a43" />
+</td>
+
+<td align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SnehasishDas30&hide=stars,prs,issues&show_icons=false&hide_title=true&hide_border=true&theme=tokyonight&custom_title=Contributions" />
+</td>
+
+</tr>
+</table>
+
+<br>
 
 </div>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Learner;Open+to+Internships;Building+Cool+Projects;Hacker;Create-virus&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SnehasishDas30&label=Profile%20views&color=blue&style=flat" />
-</p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
