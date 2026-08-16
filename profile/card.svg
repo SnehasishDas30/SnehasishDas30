@@ -353,66 +353,56 @@
     stroke-width="1"/>
 
 
-  <!-- ================================================= -->
-  <!-- FOLLOWERS -->
-  <!-- ================================================= -->
+ <!-- FOLLOWERS -->
 
-  <text
-    x="200"
-    y="415"
-    text-anchor="middle"
-    fill="#8b949e"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="14"
-    font-weight="600">
+<text
+  x="200"
+  y="415"
+  text-anchor="middle"
+  fill="#8b949e"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14"
+  font-weight="600">
+  FOLLOWERS
+</text>
 
-    FOLLOWERS
-
-  </text>
-
-  <text
-    x="200"
-    y="451"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="25"
-    font-weight="700">
-
-    5
-
-  </text>
+<text
+  id="followers-count"
+  x="200"
+  y="451"
+  text-anchor="middle"
+  fill="#ffffff"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="25"
+  font-weight="700">
+  {{FOLLOWERS}}
+</text>
 
 
-  <!-- ================================================= -->
-  <!-- REPOSITORIES -->
-  <!-- ================================================= -->
+<!-- REPOSITORIES -->
 
-  <text
-    x="500"
-    y="415"
-    text-anchor="middle"
-    fill="#8b949e"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="14"
-    font-weight="600">
+<text
+  x="500"
+  y="415"
+  text-anchor="middle"
+  fill="#8b949e"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="14"
+  font-weight="600">
+  REPOSITORIES
+</text>
 
-    REPOSITORIES
-
-  </text>
-
-  <text
-    x="500"
-    y="451"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="25"
-    font-weight="700">
-
-    24
-
-  </text>
+<text
+  id="repositories-count"
+  x="500"
+  y="451"
+  text-anchor="middle"
+  fill="#ffffff"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="25"
+  font-weight="700">
+  {{REPOSITORIES}}
+</text>
 
 
   <!-- ================================================= -->
