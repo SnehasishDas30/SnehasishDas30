@@ -60,14 +60,14 @@
   />
 
   <!-- Animated GIF background -->
-  <image
-    href="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile-banner.gif"
-    x="0"
-    y="0"
-    width="1000"
-    height="300"
-    preserveAspectRatio="xMidYMid slice"
-  />
+<image
+  href="https://raw.githubusercontent.com/SnehasishDas30/SnehasishDas30/main/profile-banner.gif"
+  x="0"
+  y="0"
+  width="1000"
+  height="300"
+  preserveAspectRatio="xMidYMid slice"
+/>
 
   <!-- Dark overlay over GIF -->
   <rect
