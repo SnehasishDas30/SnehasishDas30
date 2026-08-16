@@ -5,8 +5,8 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
-
-🎓 Final Year B.Tech CSE Student <br>
+🎓 Computer Science Engineering (B.Tech) <br>
+⚙️ Mechanical Engineering (Diploma) <br>
 💻 Full Stack Developer <br>
 🌱 Learning MERN Stack <br>
 🚀 Open to Internship Opportunities  
