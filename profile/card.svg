@@ -375,7 +375,7 @@
   font-family="Arial, Helvetica, sans-serif"
   font-size="25"
   font-weight="700">
-  {{FOLLOWERS}}
+  4
 </text>
 
 
@@ -401,7 +401,7 @@
   font-family="Arial, Helvetica, sans-serif"
   font-size="25"
   font-weight="700">
-  {{REPOSITORIES}}
+  26
 </text>
 
 
