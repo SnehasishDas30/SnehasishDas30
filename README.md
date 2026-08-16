@@ -66,7 +66,7 @@
 <h2 align="center">📊 GitHub Dashboard</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=SnehasishDas30&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
